@@ -34,4 +34,4 @@ For example, if a user asks for "Night theme," and months later you release "Dar
 *   **Change Output:** Swap Gmail for Slack, SendGrid, or HubSpot to notify your sales team instead of the user directly.
 
 ---
-[Start using n8n](https://n8n.partnerlinks.io/spkrs32edelt) | [My other projects here](https://n8n.io/creators/ehsan-z/)
+[Start using n8n](https://n8n.partnerlinks.io/spkrs32edelt) | [My other n8n projects here](https://n8n.io/creators/ehsan-z/)
